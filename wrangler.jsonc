@@ -10,7 +10,7 @@
 	"vars": {
 		"VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
 		"ADMIN_USERNAME": "junze",
-		"ADMIN_PASSWORD": "ycy521..00",
+		"ADMIN_PASSWORD": "",
 		"SITE_TITLE": "junze小型数据中心",
 		"SITE_ANNOUNCEMENT": "欢迎使用 CList 存储聚合服务！如有问题请联系管理员。\n Github: https://github.com/ooyyh \n email:laowan345@gmail.com",
 		"CHUNK_SIZE_MB": "10"
