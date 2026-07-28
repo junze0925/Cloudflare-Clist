@@ -22,7 +22,7 @@
 		{
 			"binding": "DB",
 			"database_name": "clist",
-			"database_id": "799ad529-5223-429c-addd-9e2896137f65"
+			"database_id": "your d1 id"
 		}
 	],
 	"migrations_dir": "./migrations"
